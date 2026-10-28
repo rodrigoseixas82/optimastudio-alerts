@@ -1,6 +1,7 @@
 # Optima Studio // Alerts!
 
 **PT-BR** · Lembretes rápidos e gratuitos para o Windows 10 e 11. Programa criado por **NewRSX**.
+
 **EN** · Free quick reminders for Windows 10 and 11. Created by **NewRSX**.
 
 ![Optima Studio // Alerts!](optima-studio-alerts-v1.1.0-pt.png)
