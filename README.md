@@ -7,12 +7,17 @@
 
 ## ⬇️ Download
 
-**[Baixar a versão mais recente / Download the latest version](https://github.com/rodrigoseixas82/optimastudio-alerts/releases/latest)**
+### [⬇️ Baixar o instalador (versão 1.1.0)](https://github.com/rodrigoseixas82/optimastudio-alerts/releases/download/v1.1.0/OptimaStudio_Alerts_1.1.0.0.exe)
 
-Em *Assets*, baixe o arquivo `OptimaStudio_Alerts_X.Y.Z.0.exe` e rode. Para atualizar, rode o instalador novo por cima: seus lembretes e configurações são mantidos.
-Under *Assets*, download `OptimaStudio_Alerts_X.Y.Z.0.exe` and run it. To update, run the new installer over the old one: your reminders and settings are kept.
+Baixe e dê dois cliques no arquivo para instalar. Já tem o programa? Instale por cima: seus lembretes e configurações são mantidos.
 
-> **"O Windows protegeu o computador" / "Windows protected your PC"**: clique em *Mais informações* > *Executar assim mesmo* (click *More info* > *Run anyway*). O instalador não tem assinatura digital paga; não é vírus.
+**EN** · [Download the installer (version 1.1.0)](https://github.com/rodrigoseixas82/optimastudio-alerts/releases/download/v1.1.0/OptimaStudio_Alerts_1.1.0.0.exe). Run it to install; to update, install over the old version and your reminders and settings are kept.
+
+Versões anteriores / Previous versions: [todas as versões](https://github.com/rodrigoseixas82/optimastudio-alerts/releases)
+
+> **"O Windows protegeu o computador"**: clique em *Mais informações* > *Executar assim mesmo*. O instalador não tem assinatura digital paga; não é vírus.
+>
+> **EN** · **"Windows protected your PC"**: click *More info* > *Run anyway*.
 
 ## O que faz / What it does
 
