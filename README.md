@@ -6,22 +6,6 @@
 
 ![Optima Studio // Alerts!](optima-studio-alerts-v1.1.0-pt.png)
 
-## ⬇️ Download
-
-### [⬇️ Baixar o instalador (versão 1.1.0)](https://github.com/rodrigoseixas82/optimastudio-alerts/releases/download/v1.1.0/OptimaStudio_Alerts_1.1.0.0.exe)
-
-Baixe e dê dois cliques no arquivo para instalar. Já tem o programa? Instale por cima: seus lembretes e configurações são mantidos.
-
-**EN** · [Download the installer (version 1.1.0)](https://github.com/rodrigoseixas82/optimastudio-alerts/releases/download/v1.1.0/OptimaStudio_Alerts_1.1.0.0.exe). Run it to install; to update, install over the old version and your reminders and settings are kept.
-
-Versões anteriores / Previous versions: [todas as versões](https://github.com/rodrigoseixas82/optimastudio-alerts/releases)
-
-> **"O Windows protegeu o computador"**: clique em *Mais informações* > *Executar assim mesmo*. O instalador não tem assinatura digital paga; não é vírus.
->
-> **EN** · **"Windows protected your PC"**: click *More info* > *Run anyway*.
-
-🛡️ **VirusTotal: 0/69.** [Veja a análise do instalador 1.1.0](https://www.virustotal.com/gui/file/6d5828aeb1dd4fef98215016bf5f4187e26b0df1a6cfcb10026c9e281022ed3a) · [See the 1.1.0 installer scan](https://www.virustotal.com/gui/file/6d5828aeb1dd4fef98215016bf5f4187e26b0df1a6cfcb10026c9e281022ed3a)
-
 ## O que faz / What it does
 
 - Atalho (Ctrl + Shift + Espaço) para criar um lembrete de qualquer lugar · Shortcut (Ctrl + Shift + Space) to create a reminder from anywhere
