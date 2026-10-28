@@ -20,6 +20,8 @@ Versões anteriores / Previous versions: [todas as versões](https://github.com/
 >
 > **EN** · **"Windows protected your PC"**: click *More info* > *Run anyway*.
 
+🛡️ **VirusTotal: 0/69.** [Veja a análise do instalador 1.1.0](https://www.virustotal.com/gui/file/6d5828aeb1dd4fef98215016bf5f4187e26b0df1a6cfcb10026c9e281022ed3a) · [See the 1.1.0 installer scan](https://www.virustotal.com/gui/file/6d5828aeb1dd4fef98215016bf5f4187e26b0df1a6cfcb10026c9e281022ed3a)
+
 ## O que faz / What it does
 
 - Atalho (Ctrl + Shift + Espaço) para criar um lembrete de qualquer lugar · Shortcut (Ctrl + Shift + Space) to create a reminder from anywhere
